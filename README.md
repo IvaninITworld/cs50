@@ -5,8 +5,6 @@ Welcome to my CS50x project repository! This repository contains my solutions an
 ## Table of Contents
 - [About the Course](#about-the-course)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [License](#license)
 
 ## About the Course
 CS50x is an introductory computer science course that covers a wide range of topics, including problem-solving, algorithms, data structures, programming languages, web development, and more. The course provides a solid foundation in computer science concepts and programming skills. It is offered by Harvard University and is available online for free on the edX platform.
@@ -47,5 +45,6 @@ In this repository, you will find my solutions to the problem sets and project a
 
 Feel free to explore each directory to see the code and documentation for each project.
 
-## Getting Started
-If you're new to CS50x, I recommend starting by visiting the [
+## Final project
+my final project is on another repository. <br />
+If you want to check that as well, Please visit the below. <br />
